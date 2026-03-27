@@ -40,22 +40,6 @@ Gli embedding provenienti dalle tre fonti vengono **concatenati** e passati a un
 
 ---
 
-## 📦 Struttura della repository
-Multimodal_SalesPrediction/
-│
-├── sales_prediction/        # Moduli principali del modello
-│   ├── dataloader/          # Gestione e preprocessing dei dati multimodali
-│   ├── models/              # Definizione dei modelli (ViT, DistilBERT, MLP)
-│   ├── trainer/             # Script di training e validazione
-│   └── ...
-│
-├── utils/                   # Funzioni di supporto
-├── notebooks/               # Notebook Jupyter per analisi e sperimentazioni
-├── README.md                # Questo file
-└── requirements.txt         # Dipendenze
-
----
-
 ## 🧪 Risultati e metriche  
 Il modello multimodale ha mostrato:  
 ✅ **Riduzione dell’errore** rispetto al baseline tabulare  
