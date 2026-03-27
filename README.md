@@ -1,4 +1,11 @@
 # 🧠 Multimodal Sales Prediction
+
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-AI-blue)
+![Multimodal](https://img.shields.io/badge/Multimodal%20AI-Sales%20Prediction-%2300bfff?logo=automattic&logoColor=white)
+![Vision Transformer](https://img.shields.io/badge/Vision_Transformer-ViT-orange?logo=tensorflow)
+![DistilBERT](https://img.shields.io/badge/Text-DisilBERT-blue?logo=huggingface)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch&logoColor=white)
+
 **Modello multimodale per la predizione delle vendite con dati tabulari, immagini e descrizioni testuali**
 
 Questo progetto nasce come tesi magistrale e affronta un problema reale: **migliorare l’accuratezza della predizione delle vendite nel settore retail di abbigliamento** integrando informazioni provenienti da diverse modalità — **dati tabulari**, **immagini dei prodotti** e **descrizioni testuali**.
